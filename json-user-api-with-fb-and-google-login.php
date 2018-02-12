@@ -4,7 +4,7 @@
 
   Plugin Name: JSON User API with FB & Google Login
 
-  Plugin URI: http://www.parorrey.com/solutions/json-api-user/
+  Plugin URI: https://github.com/vignesh-s/json-user-api-with-fb-and-google-login
 
   Description: Extends the JSON API for RESTful user registration, authentication, password reset, Facebook & Google Login, user meta and BuddyPress Profile related functions.
 
